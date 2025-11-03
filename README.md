@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 Key Concepts (from my notes)
+## 🧠 Key Concepts 
 - **STIGs (Security Technical Implementation Guides):** hardening baselines published by DISA; cover OS, apps, network devices, cloud/containers; distributed as **XML/XCCDF, checklists, and PDFs**.  
 - **Why STIGs matter:** standardize security, reduce attack surface, align with **NIST 800-53**, required for **ATO**, save time during audits.  
 - **Best practices:** stay on latest STIG, apply early in system build, **automate** (SCC/SCAP/Ansible/PowerShell), track exceptions with **POA&M** or **Risk Acceptance**, document clearly.  
